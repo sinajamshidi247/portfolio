@@ -19,14 +19,13 @@ function Resume() {
         <h4 style={{color:'gray'}}>Programmer</h4>
         <hr style={{borderTop:'3px solid #833fb2',width:'50%'}}/>
         <p>
-          werihtirtiowerutiorwetyweiroutwieruytiwerytiwepytpiwerytwiepuywt
-          weirtyeirutyweirytwpieuripuytiwepyrtpiweyrtuyrewuiyerpt
-          werytwoerut[woerutwoeurtwerywert[weruyewt
-
+          I am a Self-taught web developer,full lerner , enthusiastic about network and security
+          <br/>Trying improve my skills in cs
         </p>
         <hr style={{borderTop:'3px solid #833fb2',width:'50%'}}/>
           <h5>Address</h5>
-          <p> hamedan. moderes town , 49</p>
+          <p>Iran.Tehran.sadeghie</p>
+          <p> Iran.Hamedan. modaress town </p>
         <h5>Phone</h5>
         <p>(+98) 918-504-5121</p>
         <h5>Email</h5>
@@ -40,13 +39,13 @@ function Resume() {
         startYear = {2018}
         endYear = {2022}
         schoolName = {'Bu-Ali Sina University'}
-        schoolDescription = "Bu-Ali Sina University has five faculties, one higher education complex, and two junior schools. Faculties include Agriculture, Art and Architecture, Engineering, Literature and Humanities, Science, Malayer Junior Faculty of Education, and Junior School of Veterinary Medicine."
+        schoolDescription = "Materials Science and Engineering."
         />
         <Education 
         startYear = {2019}
         endYear = {2020}
         schoolName = 'Iran Technical & Vocational Training Organization'
-        schoolDescription = "The Iran Technical and Vocational Training Organization or in brief I.R.T.V.T.O is one of the organizations affiliated to the Ministry of Cooperatives, Labour, and Social Welfare, which was formed from the merger of three educational institutions in 1980 in order to provide technical and vocational education"
+        schoolDescription = "graduated in three fields : ubuntu-java-python"
           
         />
         <hr style={{borderTop:'3px solid #833fb2',width:'50%'}}/>
@@ -55,7 +54,14 @@ function Resume() {
         startYear ={2018}
         endYear = {2019}
         jobName = 'Iran Chess Federation'
-        jobDescription ='Experience is the process through which conscious organisms perceive the world around them. Experiences can be accompanied by active awareness on the part of the person having th'
+        jobDescription ='Interprets written or spoken material into English language,for chess player from other countries'
+        
+        />
+          <Experience 
+        startYear ={2018}
+        endYear = {2020}
+        jobName = 'Developer'
+        jobDescription ='Self-taught web developer'
         
         />
         <hr style={{borderTop:'3px solid #833fb2',width:'50%'}}/>
@@ -91,6 +97,8 @@ function Resume() {
         
         skill = {'Git'}
         progress = {40}
+        skill = {'java'}
+        progress = {25}
         />
 
 

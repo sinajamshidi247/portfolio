@@ -18,13 +18,13 @@ function Landing() {
             
             <p>Python | Django | DRF | HTMl/CSS | Bootstrap | React | MongoDB | Git</p>
             <div className = "social-link">
-            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+            <a href="https://www.linkedin.com/in/sina-jamshidi-5427a81b3/" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-linkedin-square" aria-hidden="true" />
             </a>
-            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+            <a href="https://github.com/sinajamshidi247" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-github-square" aria-hidden="true" />
             </a>
-            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+            <a href="https://twitter.com/oldrafford" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-twitter-square" aria-hidden="true" />
             </a>
             </div>
